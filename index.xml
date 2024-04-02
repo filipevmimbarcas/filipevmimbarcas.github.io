@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Filipe Mimbarcas</title>
+    <link>https://filipevmimbarcas.github.io/</link>
+    <description>Recent content on Filipe Mimbarcas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 02 Apr 2024 16:23:04 -0300</lastBuildDate>
+    <atom:link href="https://filipevmimbarcas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teste</title>
+      <link>https://filipevmimbarcas.github.io/posts/teste/</link>
+      <pubDate>Tue, 02 Apr 2024 16:23:04 -0300</pubDate>
+      <guid>https://filipevmimbarcas.github.io/posts/teste/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Malesuada fames ac turpis egestas integer eget. Risus viverra adipiscing at in tellus integer feugiat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Viverra suspendisse potenti nullam ac tortor. Sagittis orci a scelerisque purus semper eget duis. Nisl vel pretium lectus quam id leo in.</description>
+    </item>
+  </channel>
+</rss>
