@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Automação on Filipe Mimbarcas</title>
+    <title>Automação on Network Blog</title>
     <link>http://localhost:1313/categories/automa%C3%A7%C3%A3o/</link>
-    <description>Recent content in Automação on Filipe Mimbarcas</description>
+    <description>Recent content in Automação on Network Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 02 Apr 2024 16:46:16 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/automa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como automatizar o backup do fortigate com golang</title>
-      <link>http://localhost:1313/posts/automatizar-backup/</link>
+      <link>http://localhost:1313/posts/post-01/</link>
       <pubDate>Tue, 02 Apr 2024 16:46:16 -0300</pubDate>
-      <guid>http://localhost:1313/posts/automatizar-backup/</guid>
-      <description>Fala pessoal! tranquilo? Hoje venho trazer uma dica para quem curte automação de redes assim como eu. Uma das tarefas para quem trabalha administrando redes é manter o backup dos equipamentos em dia. Não é muito frequente, mas eventualmente pode acontecer de precisarmos restaurar as configurações do fortigate, seja por alguma alteração indesejada realizada ou por perda física do equipamento xxxxxxxxxxxxx.
+      <guid>http://localhost:1313/posts/post-01/</guid>
+      <description>Fala pessoal, tranquilo? Hoje venho trazer uma dica para quem curte automação de redes assim como eu. Uma das tarefas para quem trabalha administrando redes é realizar um backup regularmente dos ativos de rede. Não é muito frequente, mas eventualmente pode acontecer de precisarmos restaurar as configurações, seja por alguma alteração indesejada realizada ou problemas no próprio firewall.
 O que vamos fazer aqui, basicamente, é consumir a Rest API do fortigate e para isso utilizei a linguagem de programação Golang.</description>
     </item>
   </channel>
