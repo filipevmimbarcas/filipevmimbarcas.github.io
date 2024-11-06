@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Networkblog</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Networkblog</description>
+    <generator>Hugo</generator>
+    <language>us</language>
+    <lastBuildDate>Wed, 06 Nov 2024 16:26:30 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 06 Nov 2024 16:26:30 -0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet. Hic dignissimos nulla aut amet totam ad earum autem qui veniam quia et quia iusto. Aut reprehenderit sint hic unde repellat sit ipsa delectus ut asperiores rerum non autem recusandae ut quis quis At culpa fuga. At minus optio ut saepe dolorum et libero placeat et error sint. Et dolore inventore et optio sapiente est ipsum nulla ut rerum repellat eum natus excepturi ea deleniti iure?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

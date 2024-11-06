@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Networkblog</description>
     <generator>Hugo</generator>
-    <language>pt-br</language>
+    <language>us</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
