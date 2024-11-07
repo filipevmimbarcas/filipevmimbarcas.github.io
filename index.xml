@@ -2,25 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networkblog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://filipevmimbarcas.github.io/</link>
     <description>Recent content on Networkblog</description>
     <generator>Hugo</generator>
-    <language>us</language>
-    <lastBuildDate>Wed, 06 Nov 2024 16:26:30 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sobre mim</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 06 Nov 2024 16:26:30 -0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet. Hic dignissimos nulla aut amet totam ad earum autem qui veniam quia et quia iusto. Aut reprehenderit sint hic unde repellat sit ipsa delectus ut asperiores rerum non autem recusandae ut quis quis At culpa fuga. At minus optio ut saepe dolorum et libero placeat et error sint. Et dolore inventore et optio sapiente est ipsum nulla ut rerum repellat eum natus excepturi ea deleniti iure?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Como fazer arroz com feijão [Teste]</title>
-      <link>http://localhost:1313/posts/teste/</link>
-      <pubDate>Wed, 06 Nov 2024 15:06:18 -0300</pubDate>
-      <guid>http://localhost:1313/posts/teste/</guid>
-      <description>&lt;p&gt;Qui ipsum esse rem iste explicabo qui incidunt sapiente! Eos provident inventore ut maiores voluptatem non sint tenetur non rerum culpa. Ex unde omnis est incidunt voluptas eos error assumenda in dolor natus non nesciunt quod est reprehenderit pariatur aut veniam velit.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#a5d6ff&#34;&gt;&amp;#34;hello world&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Qui ipsum esse rem iste explicabo qui incidunt sapiente! Eos provident inventore ut maiores voluptatem non sint tenetur non rerum culpa. Ex unde omnis est incidunt voluptas eos error assumenda in dolor natus non nesciunt quod est reprehenderit pariatur aut veniam velit.&lt;/p&gt;</description>
-    </item>
+    <language>pt-br</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://filipevmimbarcas.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
