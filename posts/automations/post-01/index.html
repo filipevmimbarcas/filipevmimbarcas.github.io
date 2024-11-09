@@ -3,7 +3,7 @@
 
 <head>
   <title>
-   · Networkblog
+  Automatizando o backup do fortigate com Golang  · Networkblog
 </title>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,36 +13,29 @@
 
 
 <meta name="author" content="Filipe Mimbarcas">
-<meta name="description" content="
-  Sobre mim
-  
-    
-    Link para o cabeçalho
-  
-
-Desde 2019, atuo na área de redes de computadores, motivado pela curiosidade de entender como as tecnologias funcionam. Sou um profissional dedicado e motivado, em constante busca por aprimorar minhas habilidades e expandir meus conhecimentos na área de redes.
-Atualmente, estou no quarto semestre de Tecnologia em Redes de Computadores no UniSenac Campus Pelotas e trabalho como Analista de Redes Júnior na Vetorial Tecnologia. Tenho experiência com protocolos de rede, incluindo TCP/IP, DHCP, DNS, VLANs, VPNs, QoS, OSPF e BGP.">
+<meta name="description" content="">
 <meta name="keywords" content="blog,developer,personal">
 
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Networkblog">
-  <meta name="twitter:description" content="Sobre mim Link para o cabeçalho Desde 2019, atuo na área de redes de computadores, motivado pela curiosidade de entender como as tecnologias funcionam. Sou um profissional dedicado e motivado, em constante busca por aprimorar minhas habilidades e expandir meus conhecimentos na área de redes.
-Atualmente, estou no quarto semestre de Tecnologia em Redes de Computadores no UniSenac Campus Pelotas e trabalho como Analista de Redes Júnior na Vetorial Tecnologia. Tenho experiência com protocolos de rede, incluindo TCP/IP, DHCP, DNS, VLANs, VPNs, QoS, OSPF e BGP.">
+  <meta name="twitter:title" content="Automatizando o backup do fortigate com Golang ">
+  <meta name="twitter:description" content="">
 
-<meta property="og:url" content="https://filipevmimbarcas.github.io/about/">
+<meta property="og:url" content="https://filipevmimbarcas.github.io/posts/automations/post-01/">
   <meta property="og:site_name" content="Networkblog">
-  <meta property="og:title" content="Networkblog">
-  <meta property="og:description" content="Sobre mim Link para o cabeçalho Desde 2019, atuo na área de redes de computadores, motivado pela curiosidade de entender como as tecnologias funcionam. Sou um profissional dedicado e motivado, em constante busca por aprimorar minhas habilidades e expandir meus conhecimentos na área de redes.
-Atualmente, estou no quarto semestre de Tecnologia em Redes de Computadores no UniSenac Campus Pelotas e trabalho como Analista de Redes Júnior na Vetorial Tecnologia. Tenho experiência com protocolos de rede, incluindo TCP/IP, DHCP, DNS, VLANs, VPNs, QoS, OSPF e BGP.">
+  <meta property="og:title" content="Automatizando o backup do fortigate com Golang ">
+  <meta property="og:description" content="">
   <meta property="og:locale" content="pt_br">
   <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-11-09T09:23:23-03:00">
+    <meta property="article:modified_time" content="2024-11-09T09:23:23-03:00">
 
 
 
 
-<link rel="canonical" href="https://filipevmimbarcas.github.io/about/">
+<link rel="canonical" href="https://filipevmimbarcas.github.io/posts/automations/post-01/">
 
 
 <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -140,32 +133,58 @@ Atualmente, estou no quarto semestre de Tecnologia em Redes de Computadores no U
 
     <div class="content">
       
-  <section class="container page">
-  <article>
-    <header>
-      <h1 class="title">
-        <a class="title-link" href="https://filipevmimbarcas.github.io/about/">
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://filipevmimbarcas.github.io/posts/automations/post-01/">
+              Automatizando o backup do fortigate com Golang 
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2024-11-09T09:23:23-03:00">
+                novembro 9, 2024
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              Um minuto de leitura
+            </span>
+          </div>
           
-        </a>
-      </h1>
-    </header>
+          
+          
+        </div>
+      </header>
 
-    <h2 id="sobre-mim">
-  Sobre mim
-  <a class="heading-link" href="#sobre-mim">
-    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
-    <span class="sr-only">Link para o cabeçalho</span>
-  </a>
-</h2>
-<p>Desde 2019, atuo na área de redes de computadores, motivado pela curiosidade de entender como as tecnologias funcionam. Sou um profissional dedicado e motivado, em constante busca por aprimorar minhas habilidades e expandir meus conhecimentos na área de redes.</p>
-<p>Atualmente, estou no quarto semestre de Tecnologia em Redes de Computadores no UniSenac Campus Pelotas e trabalho como Analista de Redes Júnior na Vetorial Tecnologia. Tenho experiência com protocolos de rede, incluindo TCP/IP, DHCP, DNS, VLANs, VPNs, QoS, OSPF e BGP.</p>
-<p>A ideia deste espaço é documentar meu aprendizado e, ao mesmo tempo, compartilhar conteúdos que gosto de estudar, como Linux, automação e configurações de redes.</p>
-<p>Estou sempre aberto a conexões e discussões sobre tecnologia de redes. Caso queira conversar, sinta-se à vontade para me contatar pelo LinkedIn.</p>
+      <div class="post-content">
+        
+        <p><img src="/img/golang.png#center" alt="img"></p>
 
-  </article>
-</section>
+      </div>
 
-  
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
 
     </div>
 
